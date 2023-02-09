@@ -1,26 +1,26 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: 'morethanmin',
+    name: 'Jens',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'frontend developer',
-    bio: 'I develop everything using node.',
-    email: 'morethanmin.dev@gmail.com',
-    linkedin: 'morethanmin',
-    github: 'morethanmin',
+    role: 'android developer',
+    bio: '10+ years of SWE work. Android and Kotlin-backends are my fav!',
+    email: 'contact@jens.im',
+    linkedin: 'jens.olander',
+    github: 'cakism',
     instagram: '',
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: 'https://github.com/morethanmin/morethan-log'
+      name: `kotlin-dsl-examples`,
+      href: 'https://github.com/cakism/kotlin-dsl-examples'
     }
   ],
   // blog setting (required)
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
-    theme: 'light' // ['light', 'dark', 'auto']
+    title: 'Hi! I\'m Jens',
+    description: 'welcome to my blog!',
+    theme: 'dark' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
